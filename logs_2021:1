@@ -1,0 +1,14 @@
+2021/1
+
+1/15
+
+1. if df has missing data, how to improve the current pipeline?
+- already tried simpleimputer, seems still error.
+
+2. in pipeline, labelencoder() cant go like onehotencoder(), ordinalencoder()
+- labelencoder need x only while the ther two needs x,y?
+- when to use labelencoder? basde on the number of cat_Var?
+
+3. after cat_var num_var drop 'id', then pipeline, how to add 'id' gracefully back
+and split into train/test splits?
+
