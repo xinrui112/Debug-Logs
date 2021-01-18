@@ -12,3 +12,7 @@
 3. after cat_var num_var drop 'id', then pipeline, how to add 'id' gracefully back
 and split into train/test splits?
 
+1/17 tensorflow - ca housing.
+1. why it stuck at 4 examples?
+2. features now is one: room_size, how to scale to all features?
+
